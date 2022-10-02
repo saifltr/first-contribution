@@ -587,13 +587,13 @@ const contributors = [
     github: "https://github.com/minhaj-313",
     gender: "Male",
 },
-{ 
-   name: "Saif Bagmaru", 
-   branch: "Artificial Intelligence and Data Science", 
-   college: "AISSMS Institute of Information Technology, Pune", 
-   year: 2024, linkedin: "https://in.linkedin.com/in/saif-bagmaru", 
-   github: "https://github.com/saifltr",
-   gender: "Male", 
+{
+  name: "Saif Bagmaru", 
+  branch: "Artificial Intelligence and Data Science", 
+  college: "AISSMS Institute of Information Technology, Pune", 
+  year: 2024, linkedin: "https://in.linkedin.com/in/saif-bagmaru", 
+  github: "https://github.com/saifltr",
+  gender: "Male", 
 },
 ];
 
